@@ -1,0 +1,3 @@
+This is a sample for us generate a file from local to GIt remote/dev
+
+try this time as a best for all situation.
